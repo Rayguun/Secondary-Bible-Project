@@ -1,0 +1,8 @@
+# Java
+*.class
+/out/
+/target/
+*.log
+.idea/
+.vscode/
+*.jar
